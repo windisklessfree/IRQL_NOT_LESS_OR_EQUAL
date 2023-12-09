@@ -45,3 +45,9 @@ Sometimes people encounter the following problems while downloading Windows 10/1
 ![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_EQUAL/blob/main/screenshot3.png?raw=true)
 
 Thank you!
+
+`Donate:`
+
+> `Bitcoin:` bc1qth0utvcq83a8eh0a2z5gpnlm5c79evtnar27rl
+>
+> `XMR: 8C3tzDuftgAZXPPyGLfjeKhg9psQfVGbV8SJBLcpFNSJE9PhvndW3zKERRbf2vUTSaM1Mm4FpPkTrKdVYTjRCE8WVHQcDoh`
