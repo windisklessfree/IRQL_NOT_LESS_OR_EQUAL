@@ -25,3 +25,13 @@ Sometimes people encounter the following problems while downloading Windows 10/1
 - Autoactivated license key (Valid trust license only)
 - Pause auto update windows.
 
+Manual
+
+1. Prepare pxe
+2. Boot Winpe and install windows 10/11 please read https://docs.nvidia.com/networking/display/winof2v237/booting+windows+from+an+iscsi+target+or+pxe
+3. Install SetupDLF.exe and run fixer
+4. Mount the VHD or VHDX image file on which you just installed Windows. By clicking on the VHD(X) key
+5. Select a disk from the VHD image by clicking on the disk selector in the program
+6. The Install fix button will become available after clicking the install fix button
+7. Dismount image vhd or vhdx in explorer by right-clicking on the disk you just worked with and selecting eject
+8. Finish next boot Windows and no error blue screen
