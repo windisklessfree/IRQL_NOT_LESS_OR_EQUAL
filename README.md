@@ -8,7 +8,7 @@ Hi! Windows 10/11 diskless by ISCSI Fixer.
 
 ***Blue Screens by msiscsi:***
 
-| ![screenshot1.png](C:\Users\support\PAGE_FAULT_IN_NONPAGED_AREA\irql-error-image-768x576.jpg) | ![](C:\Users\support\PAGE_FAULT_IN_NONPAGED_AREA\mhrgC.jpg) |
+| ![screenshot1.png](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_QUAL/blob/main/irql-error-image-768x576.jpg) | ![](C:\Users\support\PAGE_FAULT_IN_NONPAGED_AREA\mhrgC.jpg) |
 | ------------------------------------------------------------ | ----------------------------------------------------------- |
 |                                                              |                                                             |
 
