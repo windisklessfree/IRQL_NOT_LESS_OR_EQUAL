@@ -46,7 +46,7 @@ Sometimes people encounter the following problems while downloading Windows 10/1
 
 Thank you!
 
-`Donate:`
+`Donat:`
 
 > `Bitcoin:` bc1qth0utvcq83a8eh0a2z5gpnlm5c79evtnar27rl
 >
