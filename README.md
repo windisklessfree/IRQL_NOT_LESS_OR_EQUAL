@@ -37,3 +37,11 @@ Sometimes people encounter the following problems while downloading Windows 10/1
 6. The Install fix button will become available after clicking the install fix button
 7. Dismount image vhd or vhdx in explorer by right-clicking on the disk you just worked with and selecting eject
 8. Finish next boot Windows and no error blue screen
+
+![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_EQUAL/blob/main/screenshot1.png?raw=true)
+
+![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_EQUAL/blob/main/screenshot2.png?raw=true)
+
+![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_EQUAL/blob/main/screenshot3.png?raw=true)
+
+Thank you!
