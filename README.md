@@ -8,7 +8,7 @@
 
 ***Blue Screens by msiscsi:***
 
-| ![screenshot1.png](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_QUAL/blob/main/irql-error-image-768x576.jpg) | ![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_QUAL/blob/main/mhrgC.jpg) |
+| ![screenshot1.png](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_QUAL/blob/main/irql-error-image-768x576.jpg?raw=true) | ![](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_QUAL/blob/main/mhrgC.jpg?raw=true) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
 
