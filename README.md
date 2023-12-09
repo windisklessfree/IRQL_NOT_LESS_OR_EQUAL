@@ -1,4 +1,4 @@
-# **IRQ_NOT_LESS_OR_QUAL**
+# **IRQ_NOT_LESS_OR_EQUAL**
 
 ------
 
