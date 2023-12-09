@@ -4,7 +4,7 @@
 
 > **Hi! Windows 10/11 diskless by ISCSI Fixer**.
 
-**IRQ_NOT_LESS_OR_QUAL or PAGE_FAULT_IN_NONPAGED_AREA (msiscsi.sys) Windows 10/11 F**
+**IRQ_NOT_LESS_OR_EQUAL or PAGE_FAULT_IN_NONPAGED_AREA (msiscsi.sys) Windows 10/11 F**
 
 ***Blue Screens by msiscsi:***
 
@@ -12,7 +12,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
 
-About
+***About***
 
 ------
 
@@ -25,7 +25,7 @@ Sometimes people encounter the following problems while downloading Windows 10/1
 - Autoactivated license key (Valid trust license only)
 - Pause auto update windows.
 
-Manual
+***Manual***
 
 1. Prepare pxe
 2. Boot Winpe and install windows 10/11 please read https://docs.nvidia.com/networking/display/winof2v237/booting+windows+from+an+iscsi+target+or+pxe
