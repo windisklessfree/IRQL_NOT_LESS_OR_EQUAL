@@ -1,10 +1,10 @@
-# **IRQ_NOT_LESS_OR_EQUAL**
+# **IRQL_NOT_LESS_OR_EQUAL**
 
 ------
 
 > **Hi! Windows 10/11 diskless by ISCSI Fixer**.
 
-**IRQ_NOT_LESS_OR_EQUAL or PAGE_FAULT_IN_NONPAGED_AREA (msiscsi.sys) Windows 10/11 F**
+**IRQL_NOT_LESS_OR_EQUAL or PAGE_FAULT_IN_NONPAGED_AREA (msiscsi.sys) Windows 10/11 F**
 
 [Download blue screen fixer ](https://github.com/windisklessfree/IRQ_NOT_LESS_OR_EQUAL/releases)
 
